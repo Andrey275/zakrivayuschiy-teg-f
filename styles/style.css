@@ -19,7 +19,7 @@
   background-attachment: fixed;
   min-inline-size: 320px;
   min-block-size: 100dvb;
-  font-variation-settings: var(--font-weight-content);
+  font-variation-settings: "wgth" var(--font-weight-content);
 }
 
 /* header */
@@ -75,7 +75,6 @@
 .post__title {
   padding: 5px 10px;
   font-size: 18px;
-  font-variation-settings: var(--font-weight-content);
 }
 
 .post__image-cover {
