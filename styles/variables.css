@@ -6,4 +6,9 @@
   --font-weight-content: 400;
   --main-color: #000;
   --background-color: #FFF;
+  --contour-color: black;
+  --animation-fill-color: #FF0000;
+  --background: repeating-linear-gradient(to right, #d3d3d3 0px 2px, rgb(0 0 0 / 0) 2px 4px),
+  repeating-linear-gradient(to bottom, #d3d3d3 0px 2px, rgb(0 0 0 / 0) 2px 4px),
+  linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
 }
